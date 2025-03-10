@@ -6,7 +6,7 @@ I'm Studying Computer Engineering at RMUTL
 
 I've been learning code, for 3 years
 
-* 🌍  I'm based in Bangkok
+* 🌍  I'm based in Chiang Mai
 * 🧠  I'm learning A Full-Stack Development
 
 ### Skills
