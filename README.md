@@ -8,6 +8,7 @@ I've been learning code, for 3 years
 
 * 🌍  I'm based in Chiang Mai
 * 🧠  I'm learning A Full-Stack Development
+* 🧠  Now I want to learn new skills about DevOps
 
 ### Skills
 
