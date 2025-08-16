@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Studying Computer Engineering at RMUTL
 ------------------------------------------
 
-I've been learning code, for 3 years
+I've been learning code, for 4 years
 
 * 🌍  I'm based in Chiang Mai
 * 🧠  I'm learning A Full-Stack Development
